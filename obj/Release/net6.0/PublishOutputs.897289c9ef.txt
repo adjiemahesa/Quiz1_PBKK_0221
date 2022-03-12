@@ -1,0 +1,7 @@
+D:\Informatika\Quiz1_PBKK_0221\publish\Quiz1_PBKK_0221.exe
+D:\Informatika\Quiz1_PBKK_0221\publish\appsettings.Development.json
+D:\Informatika\Quiz1_PBKK_0221\publish\appsettings.json
+D:\Informatika\Quiz1_PBKK_0221\publish\Quiz1_PBKK_0221.dll
+D:\Informatika\Quiz1_PBKK_0221\publish\Quiz1_PBKK_0221.deps.json
+D:\Informatika\Quiz1_PBKK_0221\publish\Quiz1_PBKK_0221.runtimeconfig.json
+D:\Informatika\Quiz1_PBKK_0221\publish\Quiz1_PBKK_0221.pdb

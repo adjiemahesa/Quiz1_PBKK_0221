@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Quiz1_PBKK_0221
 build_property.RootNamespace = Quiz1_PBKK_0221
-build_property.ProjectDir = d:\Informatika\Quiz1_PBKK_0221\
+build_property.ProjectDir = D:\Informatika\Quiz1_PBKK_0221\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = d:\Informatika\Quiz1_PBKK_0221
+build_property.MSBuildProjectDirectory = D:\Informatika\Quiz1_PBKK_0221
 build_property._RazorSourceGeneratorDebug = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/Index.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/Profile.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/collaboration.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/collaboration.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcY29sbGFib3JhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/company.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/company.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcY29tcGFueS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/Error.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/Index.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/Privacy.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/product.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/product.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFccHJvZHVjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/q1/Profile.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/q1/Profile.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNccTFcUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/_ViewImports.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/_ViewStart.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[d:/Informatika/Quiz1_PBKK_0221/Pages/Shared/_Layout.cshtml]
+[D:/Informatika/Quiz1_PBKK_0221/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dezouenyp4

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bda4c13d-c73f-4810-86a5-5b46249dc740/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/styleitup-quiz1-221",
+    "appService.deploySubpath": "publish"
+}
