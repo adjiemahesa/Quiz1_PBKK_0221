@@ -3,11 +3,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace Quiz1_PBKK_0221.Pages;
 
-public class IndexsModel : PageModel
+public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> _logger;
 
-    public IndexsModel(ILogger<IndexModel> logger)
+    public IndexModel(ILogger<IndexModel> logger)
     {
         _logger = logger;
     }
