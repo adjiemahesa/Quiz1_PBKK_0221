@@ -16308,6 +16308,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\company.cshtml",
+      "TargetPath": "Pages\\company.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -16318,6 +16323,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\Profile.cshtml",
+      "TargetPath": "Pages\\Profile.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -16325,6 +16335,11 @@
     {
       "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Informatika\\Quiz1_PBKK_0221\\Pages\\collaboration.cshtml",
+      "TargetPath": "Pages\\collaboration.cshtml",
       "FileKind": "mvc"
     },
     {
